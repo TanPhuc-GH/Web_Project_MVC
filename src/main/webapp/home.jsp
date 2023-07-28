@@ -40,7 +40,7 @@
         }
     </script>
 
-    <title>Klook</title>
+    <title>NPKBooking</title>
 </head>
 <body>
 <div class="klook-home">
